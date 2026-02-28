@@ -7,7 +7,7 @@ export default function stylizedCardMessage(text) {
     contextInfo: {
       externalAdReply: {
         title: "BOTE DU GANG",
-        body: "𓆩 KOUSBOYS 𓆪",
+        body: " KOUSBOYS ",
         thumbnail: fs.readFileSync("./database/DigiX.jpg"),
         sourceUrl: "https://whatsapp.com",
         mediaType: 1,
